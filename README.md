@@ -1,6 +1,6 @@
 # AllUnityModules
 
-- This repo is used to store all Unity modules throughout my learning experience beginning with Module 7 and their associated assignments
+- This repo is used to store a specific category throughout my learning experience in Unity within a particular branch beginning with Assignment 7.1.
 
 - Please navigate to any module that pertains to your interest.
 
