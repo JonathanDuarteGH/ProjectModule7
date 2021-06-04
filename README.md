@@ -1,4 +1,4 @@
-# AllUnityModules
+# Project Module 7
 
 - This repo is used to store a specific category throughout my learning experience in Unity within a particular branch beginning with Assignment 7.1.
 
